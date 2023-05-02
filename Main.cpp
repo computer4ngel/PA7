@@ -1,7 +1,9 @@
-#include "PA6.h"
+#include "PA7.h"
+#include "Calculator.h"
+#include <fstream>
 
 int main() {
-	runMusicManager();
 
-	return 0;
+mainOperation();
+
 }
